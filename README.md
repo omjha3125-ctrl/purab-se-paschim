@@ -19,3 +19,7 @@ The film is in `film/` as 15 playable parts (about 80 s each, under GitHub's 100
 - Mac / Linux: `sh film/join.sh`
 
 Joining uses stream copy, so there is no quality loss: the result is the original 20:00 MP4.
+
+## Live wallpapers (Linux / Fedora)
+
+`wallpapers/` has four seamless 60 s loops at 1920×1080, silent: night, dusk, tea garden, Ghats rain. On Fedora GNOME, install **Hidamari** from Flathub (`flatpak install flathub io.github.jeffshee.Hidamari`), open it, choose a video, and enable autostart.
